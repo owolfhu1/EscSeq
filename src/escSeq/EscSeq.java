@@ -2,10 +2,7 @@ package escSeq;
 
 public class EscSeq {
 	public static void main(String []args){
-		System.out.printf("********\r*      *\r*      *\r*      *\r*      *\r********");
-		
-		
-		
+		System.out.printf("*********\r*\t*\r*\t*\r*\t*\r*\t*\r*********");
 	}
 }
 
